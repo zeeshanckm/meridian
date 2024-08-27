@@ -1,0 +1,4 @@
+/home/codebases/meridian/src/main/java/com/bezkoder/spring/data/mongodb/SpringBootDataMongodbApplication.java
+/home/codebases/meridian/src/main/java/com/bezkoder/spring/data/mongodb/repository/TutorialRepository.java
+/home/codebases/meridian/src/main/java/com/bezkoder/spring/data/mongodb/controller/TutorialController.java
+/home/codebases/meridian/src/main/java/com/bezkoder/spring/data/mongodb/model/Tutorial.java
